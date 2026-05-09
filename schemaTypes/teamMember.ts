@@ -18,6 +18,10 @@ export const teamMember = {
           { title: "Zahnarzt", value: "Zahnarzt" },
           { title: "Dentalhygienikerin", value: "Dentalhygienikerin" },
           { title: "Dentalassistentin", value: "Dentalassistentin" },
+          {
+            title: "Dentalassistentin in Ausbildung",
+            value: "Dentalassistentin in Ausbildung",
+          },
           { title: "Praxisassistentin", value: "Praxisassistentin" },
           { title: "Administration", value: "Administration" },
         ],

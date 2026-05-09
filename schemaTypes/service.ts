@@ -25,6 +25,12 @@ export const service = {
       title: "Reihenfolge",
       type: "number",
     },
+    {
+      name: "active",
+      title: "Aktiv",
+      type: "boolean",
+      initialValue: true,
+    },
   ],
   orderings: [
     {
